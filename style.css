@@ -1,0 +1,23 @@
+body {
+    background-color: #9ebcfc;
+    text-align: center;
+}
+
+strong {
+    color: #ffab19;
+}
+
+.title {
+    color: #ffffff;
+}
+
+pre {
+    color: #0d6c92;
+}
+
+.director {
+    text-align: right;
+    color: #dd862a;
+    font-size: medium;
+    font-weight: bold;
+}
